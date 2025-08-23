@@ -1,4 +1,4 @@
-// OpenaiCall.ts
+import 'dotenv/config'; // Loads .env automatically
 import OpenAI from "openai";
 
 export interface CallOptions<TSchema> {

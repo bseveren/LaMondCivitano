@@ -1,5 +1,5 @@
 // find-news-sources.ts
-import { callStructuredJSON } from "./openAIcall";
+import { callStructuredJSON } from "./OpenaiCall";
 import { NewsSourceList } from "./types";
 import { NewsSourceListSchema } from "./schema";
 
@@ -38,7 +38,6 @@ export async function findNewsSources(country: string, requestedCount: number): 
     `Number of URLs: ${requestedCount}`,
     "Return results in descending 'domestic interest' (your best judgement).",
     "Prefer official homepages; include https scheme.",
-    "Include at least one evidence URL to robots.txt and one to a sample article.",
   ].join("\n");
 
   // Call OpenAI with structured output

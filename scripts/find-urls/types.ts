@@ -1,5 +1,3 @@
-// types.ts
-
 export type SiteCategory =
   | "national"
   | "regional/local"

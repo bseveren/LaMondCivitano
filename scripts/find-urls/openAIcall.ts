@@ -1,5 +1,6 @@
-import 'dotenv/config'; // Loads .env automatically
 import OpenAI from "openai";
+import 'dotenv/config';
+import { OPENAI_API_KEY} from "../../env";
 
 export interface CallOptions<TSchema> {
   model?: string;
@@ -24,10 +25,9 @@ export async function callStructuredJSON<TOut>(opts: CallOptions<TOut>): Promise
     useWebSearchTool = true,
   } = opts;
 
-  const apiKey = process.env.OPENAI_API_KEY;
-  if (!apiKey) throw new Error("Missing OPENAI_API_KEY in env.");
+  if (!OPENAI_API_KEY) throw new Error("Missing OPENAI_API_KEY in env.");
 
-  const client = new OpenAI({ apiKey });
+  const client = new OpenAI({ apiKey: OPENAI_API_KEY });
 
   const response = await client.responses.create({
     model,
@@ -36,7 +36,9 @@ export async function callStructuredJSON<TOut>(opts: CallOptions<TOut>): Promise
       { role: "user", content: user },
     ],
     tools: useWebSearchTool ? [{ type: "web_search" }] : undefined,
-    response_format: { type: "json_schema", json_schema: jsonSchema },
+    text: {
+        format: { name: "json_schema", type: "json_schema", schema: jsonSchema },
+    }
   });
 
   // Try single consolidated text first

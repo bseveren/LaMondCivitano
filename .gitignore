@@ -25,9 +25,10 @@ yarn-debug.log*
 yarn-error.log*
 
 # Environment files (local configs)
-/.env.*
+/env.ts
 
 node_modules/
 .env
 .idea/
 .vscode/
+out/

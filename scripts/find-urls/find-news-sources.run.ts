@@ -1,16 +1,20 @@
 import * as fs from "node:fs/promises";
 import * as path from "node:path";
 import { findNewsSources } from "./find-news-sources.js";
+import { access } from 'fs/promises';
+import { constants } from 'fs';
 
-console.log("DEBUG: Starting find-news-sources.run.ts");
+async function fileExists(path: string): Promise<boolean> {
+    try {
+        await access(path, constants.F_OK);
+        return true;
+    } catch {
+        return false;
+    }
+}
 
-async function run() {
-  console.log("DEBUG: Starting find-news-sources.run.ts");
-  // 🔧 Define your parameters here (no CLI)
-  const country = "Belgium";
-  const count = 3;
-
-  const result = await findNewsSources(country, count);
+async function run(country: string = "Belgium", count: number = 3, skipIfExists: boolean = true) {
+  console.log(`Country: ${country}, Count: ${count}`);
 
   const outDir = path.resolve("out");
   const outFile = path.join(
@@ -18,10 +22,18 @@ async function run() {
     `news-sources-${country.toLowerCase().replace(/\s+/g, "-")}.json`,
   );
 
+    // Skip if outFile already exists
+    if (await fileExists(outFile) && skipIfExists) {
+        await access(outFile, constants.F_OK);
+        console.log('File already exists. Skipping.');
+        return;
+    }
+
+    const result = await findNewsSources(country, count);
+
+
   await fs.mkdir(outDir, { recursive: true });
   await fs.writeFile(outFile, JSON.stringify(result, null, 2), "utf8");
 
   console.log(`✅ Wrote ${result.sites.length} sites for ${country} → ${outFile}`);
 }
-
-run();

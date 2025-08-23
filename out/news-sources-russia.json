@@ -1,0 +1,64 @@
+{
+  "country": "Russia",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://rbc.ru",
+      "country": "Russia",
+      "language": "Russian",
+      "category": "business",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://rssexport.rbc.ru/rbcnews/news/20/full.rss"
+      ],
+      "popularity_hint": "Ranked 1st among news websites in Russia as of July 2025."
+    },
+    {
+      "homepage": "https://dzen.ru/news",
+      "country": "Russia",
+      "language": "Russian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [],
+      "popularity_hint": "Ranked 1st among news websites in Russia as of July 2025."
+    },
+    {
+      "homepage": "https://ria.ru",
+      "country": "Russia",
+      "language": "Russian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://ria.ru/export/rss2/archive/index.xml"
+      ],
+      "popularity_hint": "Ranked 5th among news websites in Russia as of July 2025."
+    },
+    {
+      "homepage": "https://lenta.ru",
+      "country": "Russia",
+      "language": "Russian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://lenta.ru/rss"
+      ],
+      "popularity_hint": "Ranked 4th among news websites in Russia as of July 2025."
+    },
+    {
+      "homepage": "https://gazeta.ru",
+      "country": "Russia",
+      "language": "Russian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.gazeta.ru/export/rss/lenta.xml"
+      ],
+      "popularity_hint": "Ranked 8th among news websites in Russia as of July 2025."
+    }
+  ]
+}

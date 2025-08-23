@@ -1,0 +1,66 @@
+{
+  "country": "Turkey",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.hurriyet.com.tr/",
+      "country": "Turkey",
+      "language": "Turkish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.hurriyet.com.tr/rss"
+      ],
+      "popularity_hint": "Ranked 7th among all websites in Turkey as of June 2025."
+    },
+    {
+      "homepage": "https://www.milliyet.com.tr/",
+      "country": "Turkey",
+      "language": "Turkish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.milliyet.com.tr/rss"
+      ],
+      "popularity_hint": "Ranked 18th among all websites in Turkey as of June 2025."
+    },
+    {
+      "homepage": "https://www.sabah.com.tr/",
+      "country": "Turkey",
+      "language": "Turkish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.sabah.com.tr/rss"
+      ],
+      "popularity_hint": "Ranked 4th among news websites in Turkey as of July 2025."
+    },
+    {
+      "homepage": "https://www.haberler.com/",
+      "country": "Turkey",
+      "language": "Turkish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.haberler.com/rss"
+      ],
+      "popularity_hint": "Ranked 3rd among news websites in Turkey as of July 2025."
+    },
+    {
+      "homepage": "https://www.sondakika.com/",
+      "country": "Turkey",
+      "language": "Turkish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.sondakika.com/rss"
+      ],
+      "popularity_hint": "Ranked 5th among news websites in Turkey as of July 2025."
+    }
+  ]
+}

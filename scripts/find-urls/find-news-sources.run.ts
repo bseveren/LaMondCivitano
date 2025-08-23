@@ -13,12 +13,11 @@ async function fileExists(path: string): Promise<boolean> {
     }
 }
 
-async function run(country: string = "Belgium", count: number = 3, skipIfExists: boolean = true) {
+export async function run(country: string = "Belgium", count: number = 3, skipIfExists: boolean = true) {
   console.log(`Country: ${country}, Count: ${count}`);
 
-  const outDir = path.resolve("out");
-  const outFile = path.join(
-    outDir,
+  const outDir = path.join(__dirname, '..', '..', 'out');
+  const outFile = path.join(outDir,
     `news-sources-${country.toLowerCase().replace(/\s+/g, "-")}.json`,
   );
 

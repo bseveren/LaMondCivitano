@@ -1,0 +1,66 @@
+{
+  "country": "Australia",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.abc.net.au/news",
+      "country": "Australia",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.abc.net.au/news/feed/51120/rss.xml"
+      ],
+      "popularity_hint": "National broadcaster with extensive reach."
+    },
+    {
+      "homepage": "https://www.news.com.au",
+      "country": "Australia",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.news.com.au/rss"
+      ],
+      "popularity_hint": "One of the most visited news websites in Australia."
+    },
+    {
+      "homepage": "https://www.theguardian.com/au",
+      "country": "Australia",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.theguardian.com/au/rss"
+      ],
+      "popularity_hint": "Australian edition of the global news organization."
+    },
+    {
+      "homepage": "https://www.smh.com.au",
+      "country": "Australia",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.smh.com.au/rss"
+      ],
+      "popularity_hint": "One of Australia's oldest and most respected newspapers."
+    },
+    {
+      "homepage": "https://www.theage.com.au",
+      "country": "Australia",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.theage.com.au/rss"
+      ],
+      "popularity_hint": "Leading Melbourne-based news source."
+    }
+  ]
+}

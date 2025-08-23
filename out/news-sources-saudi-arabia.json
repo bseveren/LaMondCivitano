@@ -1,0 +1,66 @@
+{
+  "country": "Saudi Arabia",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.sabq.org/",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.sabq.org/rss"
+      ],
+      "popularity_hint": "One of the most visited news websites in Saudi Arabia."
+    },
+    {
+      "homepage": "https://www.al-marsd.com/",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.al-marsd.com/rss"
+      ],
+      "popularity_hint": "A widely read news portal in Saudi Arabia."
+    },
+    {
+      "homepage": "https://www.argaam.com/",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "category": "business",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.argaam.com/rss"
+      ],
+      "popularity_hint": "Popular for business and financial news in Saudi Arabia."
+    },
+    {
+      "homepage": "https://www.alarabiya.net/",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.alarabiya.net/rss"
+      ],
+      "popularity_hint": "A major news channel with a significant online presence."
+    },
+    {
+      "homepage": "https://www.alriyadh.com/",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.alriyadh.com/rss"
+      ],
+      "popularity_hint": "A leading newspaper in Saudi Arabia."
+    }
+  ]
+}

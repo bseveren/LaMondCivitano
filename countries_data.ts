@@ -1,4 +1,4 @@
-[
+export const countries = [
   {
     "country": "United States",
     "value": 30507217
@@ -883,4 +883,4 @@
     "country": "Tuvalu",
     "value": 65
   }
-]
+];

@@ -1,0 +1,76 @@
+{
+  "country": "Canada",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.cbc.ca/",
+      "country": "Canada",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.cbc.ca/cmlink/rss-topstories",
+        "https://www.cbc.ca/cmlink/rss-world",
+        "https://www.cbc.ca/cmlink/rss-canada"
+      ],
+      "popularity_hint": "Most visited news website in Canada as of July 2025."
+    },
+    {
+      "homepage": "https://www.ctvnews.ca/",
+      "country": "Canada",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009",
+        "https://www.ctvnews.ca/rss/ctvnews-ca-world-public-rss-1.822289",
+        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822288"
+      ],
+      "popularity_hint": "Second most visited news website in Canada as of July 2025."
+    },
+    {
+      "homepage": "https://www.theglobeandmail.com/",
+      "country": "Canada",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.theglobeandmail.com/rss/",
+        "https://www.theglobeandmail.com/rss/world/",
+        "https://www.theglobeandmail.com/rss/national/"
+      ],
+      "popularity_hint": "Third most visited news website in Canada as of July 2025."
+    },
+    {
+      "homepage": "https://globalnews.ca/",
+      "country": "Canada",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://globalnews.ca/feed/",
+        "https://globalnews.ca/world/feed/",
+        "https://globalnews.ca/canada/feed/"
+      ],
+      "popularity_hint": "Fourth most visited news website in Canada as of July 2025."
+    },
+    {
+      "homepage": "https://www.thestar.com/",
+      "country": "Canada",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.topstories.rss",
+        "https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.world.rss",
+        "https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.canada.rss"
+      ],
+      "popularity_hint": "Fifth most visited news website in Canada as of July 2025."
+    }
+  ]
+}

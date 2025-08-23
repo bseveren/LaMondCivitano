@@ -1,0 +1,66 @@
+{
+  "country": "France",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.francetvinfo.fr",
+      "country": "France",
+      "language": "French",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.francetvinfo.fr/titres.rss"
+      ],
+      "popularity_hint": "Among the most visited news sites in France; part of the national public broadcaster."
+    },
+    {
+      "homepage": "https://www.20minutes.fr",
+      "country": "France",
+      "language": "French",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.20minutes.fr/rss/actu-france.xml"
+      ],
+      "popularity_hint": "Popular free news site with significant domestic reach."
+    },
+    {
+      "homepage": "https://www.leparisien.fr",
+      "country": "France",
+      "language": "French",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.leparisien.fr/une/rss.xml"
+      ],
+      "popularity_hint": "Widely read national and regional news outlet."
+    },
+    {
+      "homepage": "https://www.ouest-france.fr",
+      "country": "France",
+      "language": "French",
+      "category": "regional/local",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.ouest-france.fr/rss/une.xml"
+      ],
+      "popularity_hint": "France's most-read regional daily, also has major national news coverage."
+    },
+    {
+      "homepage": "https://www.france24.com",
+      "country": "France",
+      "language": "French",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.france24.com/fr/rss"
+      ],
+      "popularity_hint": "Highly popular national and international news, available in multiple languages including French."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "country": "United Kingdom",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.bbc.co.uk/",
+      "country": "United Kingdom",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://feeds.bbci.co.uk/news/rss.xml"
+      ],
+      "popularity_hint": "Most visited news website in the UK with 156 million monthly visits as of July 2025. ([ahrefs.com](https://ahrefs.com/websites/united-kingdom/news?utm_source=openai))"
+    },
+    {
+      "homepage": "https://www.theguardian.com/",
+      "country": "United Kingdom",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.theguardian.com/uk/rss"
+      ],
+      "popularity_hint": "Among the UK's favourite news publishers, read by about 20% of adults. ([theguardian.com](https://www.theguardian.com/media/article/2024/sep/10/internet-tv-uk-most-popular-news-source-first-time?utm_source=openai))"
+    },
+    {
+      "homepage": "https://www.dailymail.co.uk/",
+      "country": "United Kingdom",
+      "language": "English",
+      "category": "tabloid",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.dailymail.co.uk/articles.rss"
+      ],
+      "popularity_hint": "One of the most visited news websites in the UK with 11 million monthly visits as of July 2025. ([ahrefs.com](https://ahrefs.com/websites/united-kingdom/news?utm_source=openai))"
+    },
+    {
+      "homepage": "https://www.thesun.co.uk/",
+      "country": "United Kingdom",
+      "language": "English",
+      "category": "tabloid",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.thesun.co.uk/feed/"
+      ],
+      "popularity_hint": "Popular UK news website with 9.7 million monthly visits as of July 2025. ([ahrefs.com](https://ahrefs.com/websites/united-kingdom/news?utm_source=openai))"
+    },
+    {
+      "homepage": "https://www.independent.co.uk/",
+      "country": "United Kingdom",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.independent.co.uk/rss"
+      ],
+      "popularity_hint": "Leading digital-only news brand in the UK with 6.7 million monthly visits as of July 2025. ([ahrefs.com](https://ahrefs.com/websites/united-kingdom/news?utm_source=openai))"
+    }
+  ]
+}

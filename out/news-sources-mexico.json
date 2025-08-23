@@ -1,0 +1,66 @@
+{
+  "country": "Mexico",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.eluniversal.com.mx/",
+      "country": "Mexico",
+      "language": "Spanish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.eluniversal.com.mx/rss"
+      ],
+      "popularity_hint": "One of Mexico's oldest and most prestigious newspapers, founded in 1916."
+    },
+    {
+      "homepage": "https://www.unotv.com/",
+      "country": "Mexico",
+      "language": "Spanish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.unotv.com/rss"
+      ],
+      "popularity_hint": "A digital news service owned by América Móvil, known for short and direct news updates."
+    },
+    {
+      "homepage": "https://www.elfinanciero.com.mx/",
+      "country": "Mexico",
+      "language": "Spanish",
+      "category": "business",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.elfinanciero.com.mx/rss"
+      ],
+      "popularity_hint": "A national daily newspaper covering business and financial markets, founded in 1981."
+    },
+    {
+      "homepage": "https://www.milenio.com/",
+      "country": "Mexico",
+      "language": "Spanish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.milenio.com/rss"
+      ],
+      "popularity_hint": "A major national newspaper published in multiple cities across Mexico."
+    },
+    {
+      "homepage": "https://www.jornada.com.mx/",
+      "country": "Mexico",
+      "language": "Spanish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.jornada.com.mx/rss"
+      ],
+      "popularity_hint": "A left-leaning daily newspaper recognized for its progressive editorial stance."
+    }
+  ]
+}

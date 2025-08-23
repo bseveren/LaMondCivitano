@@ -1,0 +1,66 @@
+{
+  "country": "Japan",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.yahoo.co.jp/",
+      "country": "Japan",
+      "language": "Japanese",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://news.yahoo.co.jp/rss"
+      ],
+      "popularity_hint": "Most visited news website in Japan with 254 million monthly visits as of July 2025."
+    },
+    {
+      "homepage": "https://www.nhk.or.jp/",
+      "country": "Japan",
+      "language": "Japanese",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.nhk.or.jp/rss/news.xml"
+      ],
+      "popularity_hint": "Second most visited news website in Japan with 19 million monthly visits as of July 2025."
+    },
+    {
+      "homepage": "https://www.nikkei.com/",
+      "country": "Japan",
+      "language": "Japanese",
+      "category": "business",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.nikkei.com/rss/"
+      ],
+      "popularity_hint": "Third most visited news website in Japan with 13 million monthly visits as of July 2025."
+    },
+    {
+      "homepage": "https://www.asahi.com/",
+      "country": "Japan",
+      "language": "Japanese",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.asahi.com/rss/"
+      ],
+      "popularity_hint": "Fourth most visited news website in Japan with 8 million monthly visits as of July 2025."
+    },
+    {
+      "homepage": "https://www.yomiuri.co.jp/",
+      "country": "Japan",
+      "language": "Japanese",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.yomiuri.co.jp/rss/"
+      ],
+      "popularity_hint": "Seventh most visited news website in Japan with 4.9 million monthly visits as of July 2025."
+    }
+  ]
+}

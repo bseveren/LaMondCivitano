@@ -1,0 +1,66 @@
+{
+  "country": "South Korea",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.chosun.com/",
+      "country": "South Korea",
+      "language": "Korean",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.chosun.com/arc/outboundfeeds/rss/?outputType=xml"
+      ],
+      "popularity_hint": "One of the most visited news websites in South Korea."
+    },
+    {
+      "homepage": "https://www.donga.com/",
+      "country": "South Korea",
+      "language": "Korean",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://rss.donga.com/total.xml"
+      ],
+      "popularity_hint": "A leading news website in South Korea."
+    },
+    {
+      "homepage": "https://www.hani.co.kr/",
+      "country": "South Korea",
+      "language": "Korean",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.hani.co.kr/rss/"
+      ],
+      "popularity_hint": "A major news website in South Korea."
+    },
+    {
+      "homepage": "https://www.joongang.co.kr/",
+      "country": "South Korea",
+      "language": "Korean",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://rss.joins.com/joins_news_list.xml"
+      ],
+      "popularity_hint": "A prominent news website in South Korea."
+    },
+    {
+      "homepage": "https://www.yna.co.kr/",
+      "country": "South Korea",
+      "language": "Korean",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.yna.co.kr/rss/"
+      ],
+      "popularity_hint": "A significant news website in South Korea."
+    }
+  ]
+}

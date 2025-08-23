@@ -1,0 +1,66 @@
+{
+  "country": "United States",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.nytimes.com",
+      "country": "United States",
+      "language": "English",
+      "category": "national",
+      "free_access": false,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+      ],
+      "popularity_hint": "Ranked 1st in July 2025 with 120M monthly visits. ([ahrefs.com](https://ahrefs.com/websites/united-states/news?utm_source=openai))"
+    },
+    {
+      "homepage": "https://www.cnn.com",
+      "country": "United States",
+      "language": "English",
+      "category": "national",
+      "free_access": false,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://rss.cnn.com/rss/cnn_topstories.rss"
+      ],
+      "popularity_hint": "Ranked 3rd in July 2025 with 33M monthly visits. ([ahrefs.com](https://ahrefs.com/websites/united-states/news?utm_source=openai))"
+    },
+    {
+      "homepage": "https://www.foxnews.com",
+      "country": "United States",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://moxie.foxnews.com/google-publisher/latest.xml"
+      ],
+      "popularity_hint": "Ranked 4th in July 2025 with 32M monthly visits. ([ahrefs.com](https://ahrefs.com/websites/united-states/news?utm_source=openai))"
+    },
+    {
+      "homepage": "https://www.usatoday.com",
+      "country": "United States",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://rssfeeds.usatoday.com/usatoday-NewsTopStories"
+      ],
+      "popularity_hint": "Ranked 6th in July 2025 with 21M monthly visits. ([ahrefs.com](https://ahrefs.com/websites/united-states/news?utm_source=openai))"
+    },
+    {
+      "homepage": "https://www.nbcnews.com",
+      "country": "United States",
+      "language": "English",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://rss.nbcnews.com/id/3032091/device/rss/rss.xml"
+      ],
+      "popularity_hint": "Ranked 10th in July 2025 with 11M monthly visits. ([ahrefs.com](https://ahrefs.com/websites/united-states/news?utm_source=openai))"
+    }
+  ]
+}

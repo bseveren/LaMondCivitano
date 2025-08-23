@@ -1,0 +1,66 @@
+{
+  "country": "Sweden",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.aftonbladet.se",
+      "country": "Sweden",
+      "language": "Swedish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.aftonbladet.se/rss.xml"
+      ],
+      "popularity_hint": "Most visited news website in Sweden as of July 2025."
+    },
+    {
+      "homepage": "https://www.expressen.se",
+      "country": "Sweden",
+      "language": "Swedish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.expressen.se/rss.xml"
+      ],
+      "popularity_hint": "Second most visited news website in Sweden as of July 2025."
+    },
+    {
+      "homepage": "https://www.svt.se",
+      "country": "Sweden",
+      "language": "Swedish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.svt.se/nyheter/rss.xml"
+      ],
+      "popularity_hint": "Third most visited news website in Sweden as of July 2025."
+    },
+    {
+      "homepage": "https://www.dn.se",
+      "country": "Sweden",
+      "language": "Swedish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.dn.se/rss.xml"
+      ],
+      "popularity_hint": "Sixth most visited news website in Sweden as of July 2025."
+    },
+    {
+      "homepage": "https://www.svd.se",
+      "country": "Sweden",
+      "language": "Swedish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.svd.se/rss.xml"
+      ],
+      "popularity_hint": "Seventh most visited news website in Sweden as of July 2025."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "country": "Belgium",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.hln.be/",
+      "country": "Belgium",
+      "language": "Dutch",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.hln.be/rss.xml"
+      ],
+      "popularity_hint": "Most visited news website in Belgium as of July 2025."
+    },
+    {
+      "homepage": "https://www.nieuwsblad.be/",
+      "country": "Belgium",
+      "language": "Dutch",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.nieuwsblad.be/rss.xml"
+      ],
+      "popularity_hint": "Second most visited news website in Belgium as of July 2025."
+    },
+    {
+      "homepage": "https://www.vrt.be/vrtnws/",
+      "country": "Belgium",
+      "language": "Dutch",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.vrt.be/vrtnws/en.rss"
+      ],
+      "popularity_hint": "Third most visited news website in Belgium as of July 2025."
+    },
+    {
+      "homepage": "https://www.rtbf.be/info/",
+      "country": "Belgium",
+      "language": "French",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.rtbf.be/info/rss"
+      ],
+      "popularity_hint": "Fourth most visited news website in Belgium as of July 2025."
+    },
+    {
+      "homepage": "https://www.sudinfo.be/",
+      "country": "Belgium",
+      "language": "French",
+      "category": "regional/local",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.sudinfo.be/rss.xml"
+      ],
+      "popularity_hint": "Fifth most visited news website in Belgium as of July 2025."
+    }
+  ]
+}

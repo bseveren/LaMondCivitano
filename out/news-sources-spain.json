@@ -1,0 +1,66 @@
+{
+  "country": "Spain",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.elmundo.es/",
+      "country": "Spain",
+      "language": "Spanish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.elmundo.es/rss/portada.xml"
+      ],
+      "popularity_hint": "Ranked 1st among news websites in Spain as of July 2025."
+    },
+    {
+      "homepage": "https://www.rtve.es/",
+      "country": "Spain",
+      "language": "Spanish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.rtve.es/rss/"
+      ],
+      "popularity_hint": "Ranked 3rd among news websites in Spain as of July 2025."
+    },
+    {
+      "homepage": "https://elpais.com/",
+      "country": "Spain",
+      "language": "Spanish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://elpais.com/rss/elpais/portada.xml"
+      ],
+      "popularity_hint": "Ranked 4th among news websites in Spain as of July 2025."
+    },
+    {
+      "homepage": "https://www.abc.es/",
+      "country": "Spain",
+      "language": "Spanish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.abc.es/rss/feeds/abcPortada.xml"
+      ],
+      "popularity_hint": "Ranked 6th among news websites in Spain as of July 2025."
+    },
+    {
+      "homepage": "https://www.lavanguardia.com/",
+      "country": "Spain",
+      "language": "Spanish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.lavanguardia.com/rss/home.xml"
+      ],
+      "popularity_hint": "Ranked 7th among news websites in Spain as of July 2025."
+    }
+  ]
+}

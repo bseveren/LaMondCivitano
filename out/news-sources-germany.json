@@ -1,0 +1,66 @@
+{
+  "country": "Germany",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.bild.de/",
+      "country": "Germany",
+      "language": "German",
+      "category": "tabloid",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,feed=alle.bild.xml"
+      ],
+      "popularity_hint": "Most visited news website in Germany as of July 2025."
+    },
+    {
+      "homepage": "https://www.t-online.de/",
+      "country": "Germany",
+      "language": "German",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.t-online.de/rss/deutschland.xml"
+      ],
+      "popularity_hint": "Second most visited news website in Germany as of July 2025."
+    },
+    {
+      "homepage": "https://www.n-tv.de/",
+      "country": "Germany",
+      "language": "German",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.n-tv.de/rss"
+      ],
+      "popularity_hint": "Third most visited news website in Germany as of July 2025."
+    },
+    {
+      "homepage": "https://www.tagesschau.de/",
+      "country": "Germany",
+      "language": "German",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.tagesschau.de/xml/rss2"
+      ],
+      "popularity_hint": "Fifth most visited news website in Germany as of July 2025."
+    },
+    {
+      "homepage": "https://www.spiegel.de/",
+      "country": "Germany",
+      "language": "German",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.spiegel.de/schlagzeilen/index.rss"
+      ],
+      "popularity_hint": "One of the largest weekly news magazines in Europe."
+    }
+  ]
+}

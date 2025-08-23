@@ -1,0 +1,71 @@
+{
+  "country": "Brazil",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.globo.com/",
+      "country": "Brazil",
+      "language": "Portuguese",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://g1.globo.com/rss/g1/",
+        "https://g1.globo.com/rss/ultimas/"
+      ],
+      "popularity_hint": "Most visited news website in Brazil with 625 million monthly visits as of June 2025. ([semrush.com](https://www.semrush.com/website/top/brazil/news-and-media/?utm_source=openai))"
+    },
+    {
+      "homepage": "https://www.uol.com.br/",
+      "country": "Brazil",
+      "language": "Portuguese",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://rss.uol.com.br/feed/noticias.xml",
+        "https://rss.uol.com.br/feed/esporte.xml"
+      ],
+      "popularity_hint": "Second most visited news website in Brazil with 320 million monthly visits as of June 2025. ([semrush.com](https://www.semrush.com/website/top/brazil/news-and-media/?utm_source=openai))"
+    },
+    {
+      "homepage": "https://www.terra.com.br/",
+      "country": "Brazil",
+      "language": "Portuguese",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.terra.com.br/rss/Controller?channel=home",
+        "https://www.terra.com.br/rss/Controller?channel=noticias"
+      ],
+      "popularity_hint": "Third most visited news website in Brazil with 76 million monthly visits as of June 2025. ([semrush.com](https://www.semrush.com/website/top/brazil/news-and-media/?utm_source=openai))"
+    },
+    {
+      "homepage": "https://www.cnnbrasil.com.br/",
+      "country": "Brazil",
+      "language": "Portuguese",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.cnnbrasil.com.br/rss/",
+        "https://www.cnnbrasil.com.br/rss/politica/"
+      ],
+      "popularity_hint": "Fourth most visited news website in Brazil with 59 million monthly visits as of June 2025. ([semrush.com](https://www.semrush.com/website/top/brazil/news-and-media/?utm_source=openai))"
+    },
+    {
+      "homepage": "https://www.metropoles.com/",
+      "country": "Brazil",
+      "language": "Portuguese",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.metropoles.com/feed",
+        "https://www.metropoles.com/feed/noticias"
+      ],
+      "popularity_hint": "Fifth most visited news website in Brazil with 33 million monthly visits as of June 2025. ([semrush.com](https://www.semrush.com/website/top/brazil/news-and-media/?utm_source=openai))"
+    }
+  ]
+}

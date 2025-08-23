@@ -1,0 +1,66 @@
+{
+  "country": "Switzerland",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.20min.ch/",
+      "country": "Switzerland",
+      "language": "German",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.20min.ch/rss/20minuten"
+      ],
+      "popularity_hint": "Most visited news website in Switzerland as of July 2025."
+    },
+    {
+      "homepage": "https://www.srf.ch/",
+      "country": "Switzerland",
+      "language": "German",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.srf.ch/news/bnf/rss"
+      ],
+      "popularity_hint": "Second most visited news website in Switzerland as of July 2025."
+    },
+    {
+      "homepage": "https://www.blick.ch/",
+      "country": "Switzerland",
+      "language": "German",
+      "category": "tabloid",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.blick.ch/news/rss.xml"
+      ],
+      "popularity_hint": "Third most visited news website in Switzerland as of July 2025."
+    },
+    {
+      "homepage": "https://www.rts.ch/",
+      "country": "Switzerland",
+      "language": "French",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.rts.ch/info/rss"
+      ],
+      "popularity_hint": "Fourth most visited news website in Switzerland as of July 2025."
+    },
+    {
+      "homepage": "https://www.tagesanzeiger.ch/",
+      "country": "Switzerland",
+      "language": "German",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.tagesanzeiger.ch/rss.xml"
+      ],
+      "popularity_hint": "Seventh most visited news website in Switzerland as of July 2025."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "country": "Indonesia",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.detik.com",
+      "country": "Indonesia",
+      "language": "Indonesian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://rss.detik.com/"
+      ],
+      "popularity_hint": "Consistently ranked as Indonesia's most visited news website."
+    },
+    {
+      "homepage": "https://www.kompas.com",
+      "country": "Indonesia",
+      "language": "Indonesian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.kompas.com/rss"
+      ],
+      "popularity_hint": "One of Indonesia's leading newspapers with a significant online presence."
+    },
+    {
+      "homepage": "https://www.tribunnews.com",
+      "country": "Indonesia",
+      "language": "Indonesian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.tribunnews.com/rss"
+      ],
+      "popularity_hint": "A widely read news portal covering various topics across Indonesia."
+    },
+    {
+      "homepage": "https://www.liputan6.com",
+      "country": "Indonesia",
+      "language": "Indonesian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.liputan6.com/rss"
+      ],
+      "popularity_hint": "Popular for its comprehensive news coverage and multimedia content."
+    },
+    {
+      "homepage": "https://www.cnnindonesia.com",
+      "country": "Indonesia",
+      "language": "Indonesian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.cnnindonesia.com/rss"
+      ],
+      "popularity_hint": "Provides national and international news with a focus on Indonesian audiences."
+    }
+  ]
+}

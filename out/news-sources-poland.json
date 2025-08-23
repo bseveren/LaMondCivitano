@@ -1,0 +1,66 @@
+{
+  "country": "Poland",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.onet.pl/",
+      "country": "Poland",
+      "language": "Polish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.onet.pl/rss"
+      ],
+      "popularity_hint": "Most visited news website in Poland as of June 2025."
+    },
+    {
+      "homepage": "https://www.wp.pl/",
+      "country": "Poland",
+      "language": "Polish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.wp.pl/rss"
+      ],
+      "popularity_hint": "Second most visited news website in Poland as of June 2025."
+    },
+    {
+      "homepage": "https://www.interia.pl/",
+      "country": "Poland",
+      "language": "Polish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.interia.pl/rss"
+      ],
+      "popularity_hint": "Third most visited news website in Poland as of June 2025."
+    },
+    {
+      "homepage": "https://www.o2.pl/",
+      "country": "Poland",
+      "language": "Polish",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.o2.pl/rss"
+      ],
+      "popularity_hint": "Fourth most visited news website in Poland as of June 2025."
+    },
+    {
+      "homepage": "https://www.fakt.pl/",
+      "country": "Poland",
+      "language": "Polish",
+      "category": "tabloid",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.fakt.pl/rss"
+      ],
+      "popularity_hint": "Fifth most visited news website in Poland as of June 2025."
+    }
+  ]
+}

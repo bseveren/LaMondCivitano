@@ -1,0 +1,67 @@
+{
+  "country": "Italy",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.rainews.it",
+      "country": "Italy",
+      "language": "Italian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.rainews.it/dl/rainews/xml/rss_home_eng.xml",
+        "https://www.rainews.it/dl/rainews/xml/rss_home.xml"
+      ],
+      "popularity_hint": "Official news portal of Italy's national public broadcaster; high domestic reach."
+    },
+    {
+      "homepage": "https://www.ansa.it",
+      "country": "Italy",
+      "language": "Italian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.ansa.it/sito/ansait_rss.xml"
+      ],
+      "popularity_hint": "Major Italian news agency; wide readership and national prominence."
+    },
+    {
+      "homepage": "https://www.ilfattoquotidiano.it",
+      "country": "Italy",
+      "language": "Italian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "likely_allowed",
+      "rss_feeds": [
+        "https://www.ilfattoquotidiano.it/feed/"
+      ],
+      "popularity_hint": "Popular independent newspaper, especially known for investigations and political reporting."
+    },
+    {
+      "homepage": "https://www.ilpost.it",
+      "country": "Italy",
+      "language": "Italian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "likely_allowed",
+      "rss_feeds": [
+        "https://www.ilpost.it/feed/"
+      ],
+      "popularity_hint": "Digital-native news site with significant online audience; covers wide range of topics."
+    },
+    {
+      "homepage": "https://www.repubblica.it",
+      "country": "Italy",
+      "language": "Italian",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "unclear",
+      "rss_feeds": [
+        "https://www.repubblica.it/rss/cronaca/rss2.0.xml"
+      ],
+      "popularity_hint": "One of Italy's largest newspapers; some premium sections are paywalled but main news is free."
+    }
+  ]
+}

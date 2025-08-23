@@ -1,0 +1,71 @@
+{
+  "country": "China",
+  "requested_count": 5,
+  "sites": [
+    {
+      "homepage": "https://www.people.com.cn/",
+      "country": "China",
+      "language": "Chinese",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.people.com.cn/rss/politics.xml",
+        "https://www.people.com.cn/rss/society.xml"
+      ],
+      "popularity_hint": "Official newspaper of the Chinese Communist Party, widely read across China."
+    },
+    {
+      "homepage": "https://www.guancha.cn/",
+      "country": "China",
+      "language": "Chinese",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.guancha.cn/rss/1.xml",
+        "https://www.guancha.cn/rss/2.xml"
+      ],
+      "popularity_hint": "Popular online news and commentary platform focusing on international affairs."
+    },
+    {
+      "homepage": "https://www.caijing.com.cn/",
+      "country": "China",
+      "language": "Chinese",
+      "category": "business",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.caijing.com.cn/rss/finance.xml",
+        "https://www.caijing.com.cn/rss/economy.xml"
+      ],
+      "popularity_hint": "Influential business and finance magazine known for in-depth reporting."
+    },
+    {
+      "homepage": "https://www.shobserver.com/",
+      "country": "China",
+      "language": "Chinese",
+      "category": "regional/local",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.shobserver.com/rss/news.xml",
+        "https://www.shobserver.com/rss/opinion.xml"
+      ],
+      "popularity_hint": "Digital news platform and official website of Jiefang Daily, focusing on Shanghai news."
+    },
+    {
+      "homepage": "https://www.gmw.cn/",
+      "country": "China",
+      "language": "Chinese",
+      "category": "national",
+      "free_access": true,
+      "robots_status": "allowed",
+      "rss_feeds": [
+        "https://www.gmw.cn/rss/guangming.xml",
+        "https://www.gmw.cn/rss/culture.xml"
+      ],
+      "popularity_hint": "National daily newspaper known for its focus on intellectual and cultural topics."
+    }
+  ]
+}

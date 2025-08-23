@@ -1,7 +1,7 @@
 // find-news-sources.ts
-import { callStructuredJSON } from "./OpenaiCall";
-import { NewsSourceList } from "./types";
-import { NewsSourceListSchema } from "./schema";
+import { callStructuredJSON } from "./OpenaiCall.js";
+import { NewsSourceList } from "./types.js";
+import { NewsSourceListSchema } from "./schema.js";
 
 /**
  * Builds the system+user prompts and calls OpenAI once
@@ -10,11 +10,6 @@ import { NewsSourceListSchema } from "./schema";
  * Returns the JSON object; you can then write it to disk elsewhere.
  */
 export async function findNewsSources(country: string, requestedCount: number): Promise<NewsSourceList> {
-  if (!country?.trim()) throw new Error("country is required");
-  if (!Number.isFinite(requestedCount) || requestedCount < 1) {
-    throw new Error("requestedCount must be a positive integer");
-  }
-
   const system = [
     "You are a meticulous research agent tasked with compiling news websites for a given country.",
     "HARD REQUIREMENTS:",

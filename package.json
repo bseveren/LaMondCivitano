@@ -2,5 +2,10 @@
   "dependencies": {
     "dotenv": "^17.2.1",
     "firebase": "^12.1.0"
-  }
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "type": "module"
 }

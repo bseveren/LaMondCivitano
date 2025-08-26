@@ -16,12 +16,13 @@ export async function extractArticleTitles(country: string, targetNumArticlesPer
         }
         console.log(`Finding articles for ${JSON.stringify(newsSourceShort, null, 2)} ...`);
 
-        const prompt = `Extract the titles of up to ${targetNumArticlesPerUrl} articles from the following news source:
+        const prompt = `Extract the titles of ${targetNumArticlesPerUrl} articles from the following news source:
         ${JSON.stringify(newsSourceShort, null, 2)}
-        `;
+        If you don't find that many titles, return all found titles. 
+        Assign an articleId to each title (1, 2, 3, ...), which helps to kreep track of the number of articles found.`;
 
         const callOptions: CallOptions<string[]> = {
-            model: "gpt-4.1",
+            model: "gpt-4.1-mini",
             system: "You are a research agent tasked with extracting article titles from news sources.",
             user: prompt,
             jsonSchema: ArticleListSchema,
@@ -37,9 +38,9 @@ export async function extractArticleTitles(country: string, targetNumArticlesPer
         }
 
         count++;
-        if (count === 2) {
-            break;
-        }
+        // if (count == 2) {
+        //     break;
+        // }
     }
     const today = new Date().toISOString().split('T')[0];
     const outputDir = path.join(__dirname, '..', '..', 'data', today);
@@ -52,4 +53,4 @@ export async function extractArticleTitles(country: string, targetNumArticlesPer
     await fs.writeFile(filePath, content);
 }
 
-extractArticleTitles('Belgium', 10).then(() => {});
+extractArticleTitles('Belgium', 30).then(() => {});

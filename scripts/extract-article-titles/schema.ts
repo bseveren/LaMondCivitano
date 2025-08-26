@@ -10,9 +10,9 @@ export const ArticleListSchema = {
                 additionalProperties: false,
                 properties: {
                     title: { type: "string" },
-                    url: { type: "string" },
+                    articleId: { type: "number" },
                 },
-                required: ["title", "url"],
+                required: ["title", "articleId"],
             },
         },
     },

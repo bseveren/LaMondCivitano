@@ -6,7 +6,7 @@ export interface CallOptions<TSchema> {
   model?: string;
   system: string;
   user: string;
-  jsonSchema: { name: string; schema: unknown; strict?: boolean };
+  jsonSchema: any;
   useWebSearchTool?: boolean; // default true
 }
 

@@ -1,5 +1,5 @@
 // find-news-sources.ts
-import { callStructuredJSON } from "./openAIcall";
+import { callStructuredJSON } from "../utils/openAIcall.js";
 import { NewsSourceList } from "./types.js";
 import { NewsSourceListSchema } from "./schema.js";
 
